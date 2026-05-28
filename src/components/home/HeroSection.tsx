@@ -10,7 +10,7 @@ export default function HeroSection() {
       {/* ── Background Image ── */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/images/hero-bg.png"
+          src="/hero-bg.png"
           alt="Serene Dental Clinic"
           fill
           priority
